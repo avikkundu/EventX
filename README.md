@@ -8,8 +8,15 @@ Users can create their own account.
 
 ## Installation
 
-First we need to download Netbeans.
-Installation link is provided below.
+First we need to download Netbeans and python.
+
+Installation link for python ::
+
+```bash
+   https://www.python.org/downloads/
+```
+
+Installation link for netbeans is provided below.
 
 ```bash
    https://netbeans.apache.org/download/index.html
