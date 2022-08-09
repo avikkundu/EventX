@@ -6,6 +6,39 @@ A simple u-i application to manage your schedule efficiently.You can create  you
 Users can create their own account.
 
 
+## Installation
+
+First we need to download Netbeans.
+Installation link is provided below.
+
+```bash
+   https://netbeans.apache.org/download/index.html
+```
+
+
+- Open Netbeans.
+
+![App Screenshot](https://github.com/avikkundu/EventX/blob/main/screenshot/installation_1.jpg)
+
+- Go to Team ->Git->Clone 
+ 
+- Copy the below mentioned link and paste it in repository url as show below .
+```bash
+   https://github.com/avikkundu/EventX.git
+```
+
+![App Screenshot](https://github.com/avikkundu/EventX/blob/main/screenshot/installation_2.jpg)
+
+- Enter user-name and password as required.
+
+- Navigate to EventX/Event_Management/app to open the project.
+
+![App Screenshot](https://github.com/avikkundu/EventX/blob/main/screenshot/installation_3.jpg)
+
+- Click on Run to open the project.
+
+
+
 ## Screenshots
 
 ### SignUp page ::
