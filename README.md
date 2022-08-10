@@ -1,9 +1,9 @@
 
 # EventX
 
-A simple u-i application to manage your schedule efficiently.You can create  your events and the application will list all the events in the appropriate tables.
+A simple u-i application to manage your schedule efficiently. You can creat  your events and the application will list all the events in the appropriate tables(Upcoming ,Past and Present). The main aim of the application is to list down all the events and help to organize the day efficiently.
 
-Users can create their own account.
+Users can create their accounts.Email verification is done using OTP generated at the time of registration.The user gets a personalized dashboard where he can see all his stats.
 
 
 ## Installation
